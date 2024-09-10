@@ -1,11 +1,11 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : My Portfolio
 description         : >-
                       I turn coffee :coffee: into code,
                       use tabs over spaces
                       and never broke production.
-baseurl             : "/portfolYOU"            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : yousinix/portfolYOU      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : EustaceMukoya      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : yousinix/portfolYOU
 open_new_tab        : false                    # Opens external URLs in new tab (works for posts, projects and navbar only)
 
@@ -26,7 +26,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Eustace Masanganjira Mukoya
-  image             : https://api.onedrive.com/v1.0/drives/66ccb853cb68a4cb/items/66CCB853CB68A4CB!2342/thumbnails/0/c500x625/content/DSC_4974_2.c500x625.jpg?prefer=noredirect%2Cclosestavailablesize&cb=2023-05-02T14%3A24%3A25.973Z&eh=Scenario%3AOneUp
+  image             : /Pictures\DSC_4974_2.jpg
  # behance           : your_username
 # dribbble          : your_username
   email             : eustacemukoya@gmail.com
