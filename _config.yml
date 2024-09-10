@@ -25,24 +25,24 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : John Doe
-  image             : https://i.imgur.com/uyDNQnn.jpg
-  behance           : your_username
+  name              : Eustace Masanganjira Mukoya
+  image             : https://api.onedrive.com/v1.0/drives/66ccb853cb68a4cb/items/66CCB853CB68A4CB!2342/thumbnails/0/c500x625/content/DSC_4974_2.c500x625.jpg?prefer=noredirect%2Cclosestavailablesize&cb=2023-05-02T14%3A24%3A25.973Z&eh=Scenario%3AOneUp
+ # behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
-  github            : your_username
+  email             : eustacemukoya@gmail.com
+  facebook          : Eustace Mukoya
+  github            : EustaceMukoya
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
+  linkedin          : Eustace Mukoya
   medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+#  twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
